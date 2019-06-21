@@ -8,4 +8,14 @@ Finally, different queries are performed against the database to obtain relevant
 
 ### Contents
 
-This project was developed using `Python` to clean the data and `SQL` to execute queries.
+This project was developed using `Python` to clean the data and `SQL` to execute database queries.
+The script `./process_data.py` contains the main code that imports the methods defined in 
+`./clean.py` and `./create_db.py`.
+
+The project report can be found in `./Data_Wrangling_Project.html` or `./Data_Wrangling_Project.ipynb`. 
+
+
+
+
+
+
