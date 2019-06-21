@@ -1,4 +1,5 @@
-# Udacity Data Analysis Nanodegree project: Wrangle Open Street Map data
+# Udacity Data Analysis Nanodegree project 
+# Wrangle Open Street Map data
 
 The goal of this project is to wrangle and extract information from a human-entered Open Street Map database `./Cambridge.osm` programmatically.
 To this end, I wrote python routines that parse the large XML source file. 
