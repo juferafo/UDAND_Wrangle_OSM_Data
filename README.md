@@ -15,8 +15,12 @@ The script `./process_data.py` contains the main code that imports the methods d
 
 The project report can be found in `./Data_Wrangling_Project.html` or `./Data_Wrangling_Project.ipynb`. 
 
+### Software and libraries
 
-
-
+* [jupyter](https://jupyter.org/)
+* [Python2.7](https://www.python.org/download/releases/2.7/)
+* [XML ElementTree](https://docs.python.org/2/library/xml.etree.elementtree.html#)
+* [Pandas](https://pandas.pydata.org/)
+* [SQLite3](https://docs.python.org/2/library/sqlite3.html)
 
 
